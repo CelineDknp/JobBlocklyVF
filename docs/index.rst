@@ -1,5 +1,5 @@
-Welcome to JobBlockly's documentation!
-======================================
+Bienvenue sur la documentation de Blockly pour INGInious !
+==========================================================
 
 .. toctree::
    :maxdepth: 2
@@ -10,7 +10,7 @@ Welcome to JobBlockly's documentation!
 
 
 
-Indices and tables
+Indices et tables
 ==================
 
 * :ref:`genindex`

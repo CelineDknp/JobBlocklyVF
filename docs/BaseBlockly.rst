@@ -1,5 +1,5 @@
-How to create a *basic* Blockly task ?
-======================================
+Comment créer une tâche Blockly *basique* ?
+===========================================
 
 There is, first, a few steps that are the same as for any other tasks. Those are :
 

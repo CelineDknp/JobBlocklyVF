@@ -1,5 +1,5 @@
-How to create a maze Blockly task ?
-===================================
+Comment créer une tâche labyrinthe ?
+====================================
 
 The easiest way to create such a task is to start from a very basic already existing task, and modify the files according to what we want. Zipped examples can be found at `this link <https://github.com/CelineDknp/JobBlockly/tree/master/BaseExercices>`_ (currently, only the visuals with the pegman and the zombie are there, but more are to come). We will describe the content of each files further in this tutorial.
 

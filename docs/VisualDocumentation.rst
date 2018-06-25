@@ -1,5 +1,5 @@
-How to change the maze's visuals
-================================
+Comment changer le visuel du labyrinthe
+=======================================
 
 Files you will need
 -------------------
